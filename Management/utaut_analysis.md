@@ -30,8 +30,10 @@ UTAUT explains why users adopt or reject a new technology through four core dete
 - Guest Mode requires zero registration
 - Minimal onboarding (language, section, accessibility only)
 - Game sessions are short (2-3 minutes), matching the actual length of dead time
+- **Gamification as a deliberate Effort Expectancy strategy:** Game-design elements such as points, leaderboards, badges, and instant feedback loops are not just engagement tools — research shows they actively lower the perceived effort and cognitive load of using a new system, because familiar, intuitive game mechanics make the interaction feel natural rather than like "learning new software" (Sailer & Homner, 2020). More recent work confirms this effect specifically in reward-driven mobile and digital contexts, showing that well-designed gamification continues to reduce perceived complexity and increase ease-of-use even in fast-paced, low-attention environments (Woolley & Sharif, 2025) — exactly the kind of high-distraction, short-window context dead time represents.
+- Simple, familiar game formats (quizzes, predictions, leaderboards) lean on mechanics fans already intuitively understand from everyday digital life, minimising the learning curve even for first-time users
 
-This is the determinant Play the Games is most explicitly engineered around — "frictionless by design" directly targets Effort Expectancy.
+This is the determinant Play the Games is most explicitly engineered around — "frictionless by design," reinforced by gamification mechanics, directly targets Effort Expectancy.
 
 ---
 
