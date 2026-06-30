@@ -3,15 +3,15 @@ Liam O’Connor — The Multi-Event Games Fan
 
 ## Personal Information
 
-Age: 39
-Gender: Male
-Location: Brisbane-based, originally from regional Queensland
-Occupation: Project manager / senior analyst / engineering consultant
+Age: 39 \
+Gender: Male \
+Location: Brisbane-based, originally from regional Queensland \
+Occupation: Project manager / senior analyst / engineering consultant \
 Income situation: Stable middle to upper-middle income; willing to spend on meaningful live experiences rather than everyday luxury
-Olympic behaviour: Attends several Brisbane 2032 sessions with his partner, brother and friends. He has tickets for one mainstream sport and two sports he rarely watches.
-Hobbies: Live sport, running, cycling, gym, pub trivia, fantasy football/tipping competitions, Olympic documentaries, podcasts, travel planning, food markets, craft beer with friends, collecting event merchandise and limited-edition memorabilia.
-Phone behaviour: Uses his phone for tickets, maps, transport, group chats, fantasy sport/tipping apps, live stats, medal tables, athlete profiles and quick event updates.
-Sport knowledge: Knows AFL, NRL, cricket and tennis well, but is less familiar with Olympic disciplines such as canoe slalom, fencing, artistic gymnastics scoring or modern pentathlon.
+Olympic behaviour: Attends several Brisbane 2032 sessions with his partner, brother and friends. He has tickets for one mainstream sport and two sports he rarely watches. \
+Hobbies: Live sport, running, cycling, gym, pub trivia, fantasy football/tipping competitions, Olympic documentaries, podcasts, travel planning, food markets, craft beer with friends, collecting event merchandise and limited-edition memorabilia. \
+Phone behaviour: Uses his phone for tickets, maps, transport, group chats, fantasy sport/tipping apps, live stats, medal tables, athlete profiles and quick event updates. \
+Sport knowledge: Knows AFL, NRL, cricket and tennis well, but is less familiar with Olympic disciplines such as canoe slalom, fencing, artistic gymnastics scoring or modern pentathlon. \
 Mindset: “I’m not just here for one event. I want to feel like I’m part of the whole Games.”
 
 ## Why Liam is a strong main persona
@@ -45,9 +45,9 @@ For Liam, Play the Games is not just “something to do while waiting”. It bec
 
 ## Persona-specific Ask
 
-Think: “This connects my whole Olympic experience, not just one session.”
-Feel: “I am part of the Games, not just watching them.”
-Do: Create an account, collect points across sessions, join leaderboards, compete with friends and return to play at the next venue.
+Think: “This connects my whole Olympic experience, not just one session.” \
+Feel: “I am part of the Games, not just watching them.” \
+Do: Create an account, collect points across sessions, join leaderboards, compete with friends and return to play at the next venue. \
 Proof / KPI: Account Mode opt-in rate, repeat play across sessions, cross-venue leaderboard participation, points collected per user, return rate between events.
 
 # Persona 2
@@ -55,16 +55,16 @@ Sofia — The First-Time Olympic Sport Viewer
 
 ## Personal Information
 
-Name: Sofia Müller
-Age: 31
-Gender: Female
-Location: Visiting Brisbane from Germany / Europe
-Occupation: Consultant / teacher / young professional
-Income situation: Has saved for the trip; treats Brisbane 2032 as a once-in-a-lifetime experience
-Olympic behaviour: Attends two or three events, including at least one unfamiliar sport
-Hobbies: Travel, photography, culture, food, fitness classes, international events, light social media storytelling
-Phone behaviour: Uses her phone for maps, translation, photos, ticketing, quick searches and messaging
-Sport knowledge: Understands the Olympics as a global event, but does not know the rules or scoring logic of every sport
+Name: Sofia Müller \
+Age: 31 \
+Gender: Female \
+Location: Visiting Brisbane from Germany / Europe \
+Occupation: Consultant / teacher / young professional \
+Income situation: Has saved for the trip; treats Brisbane 2032 as a once-in-a-lifetime experience \
+Olympic behaviour: Attends two or three events, including at least one unfamiliar sport \
+Hobbies: Travel, photography, culture, food, fitness classes, international events, light social media storytelling \
+Phone behaviour: Uses her phone for maps, translation, photos, ticketing, quick searches and messaging \
+Sport knowledge: Understands the Olympics as a global event, but does not know the rules or scoring logic of every sport \
 Mindset: “I’m excited to be here, but I don’t always understand what I’m watching.”
 
 ## Why Sofia is a strong main persona
@@ -87,20 +87,20 @@ During dead time, this confusion becomes more dangerous. If nothing helps her un
 
 Play the Games gives Sofia a simple way to understand the sport in the moment. She scans a QR code, selects her language and plays a 60–120 second rule quiz or “what just happened?” challenge. Instead of reading a long explanation, she learns through interaction.
 
-For example:
-“Why did the athlete receive a penalty?”
-A: Time violation
-B: Lane infringement
-C: Equipment fault
+For example: \
+“Why did the athlete receive a penalty?” \
+A: Time violation \
+B: Lane infringement \
+C: Equipment fault \
 D: False start
 
 After the answer, she gets a short explanation and a small reward. When the same situation happens again, she understands the live event better.
 
 ## Persona-specific Ask
 
-Think: “Now I understand what I am watching.”
-Feel: “I feel included, confident and less out of place.”
-Do: Scan the QR code, choose her language, complete a short rule explainer or quiz, redeem a small reward and return to the live sport.
+Think: “Now I understand what I am watching.” \
+Feel: “I feel included, confident and less out of place.” \
+Do: Scan the QR code, choose her language, complete a short rule explainer or quiz, redeem a small reward and return to the live sport. \
 Proof / KPI: Guest Mode start rate, quiz completion rate, language selection usage, self-reported understanding, reward redemption rate, re-engagement with the event.
 
 # Persona 3
@@ -108,15 +108,15 @@ Jack — The Post-2032 Domestic Sports Fan
 
 ## Personal Information
 
-Name: Jack Williams
-Age: 29
-Gender: Male
-Location: Brisbane local
-Occupation: Apprentice electrician / sales representative / office worker
-Income situation: Budget-conscious but regularly spends on sport, food and drinks with friends
-Sport behaviour: Attends NRL, AFL, cricket or football with mates
-Hobbies: Fantasy sport, pub trivia, gym, BBQs, NRL/AFL tipping, console gaming, weekend events
-Phone behaviour: Checks messages, scores, sports news or social feeds during breaks
+Name: Jack Williams \
+Age: 29 \
+Gender: Male \
+Location: Brisbane local \
+Occupation: Apprentice electrician / sales representative / office worker \
+Income situation: Budget-conscious but regularly spends on sport, food and drinks with friends \
+Sport behaviour: Attends NRL, AFL, cricket or football with mates \
+Hobbies: Fantasy sport, pub trivia, gym, BBQs, NRL/AFL tipping, console gaming, weekend events \
+Phone behaviour: Checks messages, scores, sports news or social feeds during breaks \
 Mindset: “I know my sport, but halftime and queues are still dead time.”
 
 ## Why this belongs in the appendix
@@ -156,9 +156,9 @@ For the business case, Jack shows that Play the Games can become a repeatable fa
 
 ## Persona-specific Ask
 
-Think: “Halftime and queues are not dead time anymore.”
-Feel: “This is fun, competitive and worth doing with my mates.”
-Do: Play during breaks, compete with friends or sections, redeem food/drink/merch offers and return at future events.
+Think: “Halftime and queues are not dead time anymore.” \
+Feel: “This is fun, competitive and worth doing with my mates.” \
+Do: Play during breaks, compete with friends or sections, redeem food/drink/merch offers and return at future events. \
 Proof / KPI: Participation during breaks, concession voucher redemption, repeat use at later domestic events, sponsor package renewal.
 
 # Persona 4
@@ -166,14 +166,14 @@ Aaliyah — The Social Sharer
 
 ## Personal Information
 
-Name: Aaliyah Nguyen
-Age: 22
-Gender: Female
-Location: Brisbane / Gold Coast
-Occupation: University student / part-time retail worker
-Income situation: Budget-conscious; strongly motivated by free rewards and social experiences
-Hobbies: TikTok, Instagram, concerts, food pop-ups, festivals, group chats, short-form video, casual sport events
-Phone behaviour: Documents moments worth sharing
+Name: Aaliyah Nguyen \
+Age: 22 \
+Gender: Female \
+Location: Brisbane / Gold Coast \
+Occupation: University student / part-time retail worker \
+Income situation: Budget-conscious; strongly motivated by free rewards and social experiences \
+Hobbies: TikTok, Instagram, concerts, food pop-ups, festivals, group chats, short-form video, casual sport events \
+Phone behaviour: Documents moments worth sharing \
 Mindset: “If something cool happens, I’ll post it.”
 
 ## Why this belongs in the appendix
@@ -213,8 +213,8 @@ For the business case, Aaliyah proves the earned-media potential. If Play the Ga
 
 ## Persona-specific Ask
 
-Think: “This is worth sharing.”
-Feel: “I want people to see that I won, ranked or appeared on the screen.”
-Do: Share leaderboard moments, winner badges or reward wins on social media.
+Think: “This is worth sharing.” \
+Feel: “I want people to see that I won, ranked or appeared on the screen.” \
+Do: Share leaderboard moments, winner badges or reward wins on social media. \
 Proof / KPI: Share button usage, tagged posts, referral scans from shared links, user-generated content, organic reach.
 
