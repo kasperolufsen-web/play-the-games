@@ -1,4 +1,4 @@
-# Quick-Fire Vulnerabilities + How to Defend Them
+# Vulnerabilities + How to Defend Them
 
 | Vulnerability | Quick Counter-Argument | Evidence That Would Strengthen It |
 |---|---|---|
