@@ -8,6 +8,20 @@ o   Real, immediately redeemable prizes (discounts, merchandise offers)
 o   Sport education embedded in gameplay – fans leave understanding the sport they watched
 o   Personal stake in the live event in front of them
 
+### Market Evidence (Deloitte 2023 Sports Fan Insights)
+
+This isn't a hypothetical behaviour - independent market research confirms both the underlying habit and the specific reward mechanic Play the Games is built around.
+
+**Fans already use mobile devices for interactive engagement during live events.** Deloitte's 2023 Sports Fan Insights survey found that 23% of sports bettors already use their mobile device to engage in-venue while attending a live sporting event - proving that in-venue, phone-based interaction during play is already an established fan behaviour, not a new ask.
+
+**The specific reward mechanic is independently validated.** When fans were asked what benefits would make them likely to engage with a digital reward, "the ability to win prizes or perks from participating in polls, games, and quizzes" ranked among the top desired benefits across all generations. A random chance for free premium seats ranked highest overall, with 60% of all sports fans - and nearly three-quarters of Gen Z and Millennial fans - saying they would likely engage with this kind of reward-based mechanic.
+
+**Demand is concentrated exactly where Play the Games needs it.** Gen Z and Millennial fans consistently show the strongest interest in interactive, reward-based, and prediction-style engagement - the exact demographic most associated with phone-led "scroll" behaviour during dead time, and the audience this concept is most explicitly designed to win back.
+
+**Source:**
+
+Deloitte Center for Technology, Media & Telecommunications. (2023). *2023 sports fan insights: The beginning of the immersive sports era*. Deloitte Insights. https://www.deloitte.com/us/en/insights/industry/sports/immersive-sports-fandom.html
+
 ### Brands & Sponsors: The Customer
 ·        Currently paying for static stadium assets (billboards, LED boards) with limited measurability
 ·        Play the Games offers a fundamentally different proposition:
