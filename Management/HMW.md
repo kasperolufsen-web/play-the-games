@@ -1,2 +1,6 @@
 ## The HMW Statement 
-How might [company name] use sponsor-funded, prize-driven mobile gaming during in-venue dead time at Brisbane 2032 to recapture fan attention from social media, drive in-venue spending, increase ticket demand through prize-based hype, and build a fan engagement platform that Australian sporting codes can license beyond 2032?
+
+How might we capitalize on under utilized assets.
+
+Rest is just the solution
+(How might Showdown use sponsor-funded, prize-driven mobile gaming during in-venue dead time at Brisbane 2032 to recapture fan attention from social media, drive in-venue spending, increase ticket demand through prize-based hype, and build a fan engagement platform that Australian sporting codes can license beyond 2032?)
